@@ -13,7 +13,7 @@
 * （PowerPointやAcrobatなどの外部ソフトは不要です）
 
 ## 🚀 ダウンロード方法
-1.  [Releases](https://github.com/[あなたのユーザー名]/[リポジトリ名]/releases) ページにアクセスします。
+1.  [Releases](https://github.com/kiskyk/convert_jpg_to_pdf/releases) ページにアクセスします。
 2.  最新バージョンの `jpg2pdf.exe` をダウンロードします。
 3.  ダウンロードしたファイルをダブルクリックして起動してください。
 

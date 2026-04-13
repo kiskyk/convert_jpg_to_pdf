@@ -17,7 +17,7 @@ A lightweight and lightning-fast desktop application to convert multiple JPEG/JP
 * (No additional software like PowerPoint or Acrobat is needed)
 
 ## 🚀 How to Download
-1.  Go to the [Releases](https://github.com/kiskyk/jpg2pdf/releases) page.
+1.  Go to the [Releases](https://github.com/kiskyk/convert_jpg_to_pdf/releases) page.
 2.  Download the latest version of `jpg2pdf.exe`.
 3.  Double-click the file to launch the app.
 
