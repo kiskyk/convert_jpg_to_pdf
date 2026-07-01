@@ -22,15 +22,15 @@ A lightweight and lightning-fast desktop application to convert multiple JPEG/JP
 3.  Double-click the file to launch the app.
 
 ## 🛠️ Usage
-1.  Click **"Select Files" (ファイル選択)**.
-2.  Choose one or more `.jpg` or `.jpeg` files.
-3.  Click **"Run" (実行)**.
-4.  The generated `output.pdf` will be saved in your **Downloads** folder.
-5.  A prompt will appear asking if you want to open the folder location.
+1.  Click **"Add" (追加)** or drag & drop `.jpg` / `.jpeg` files onto the list.
+2.  Reorder pages with **"Up" / "Down"**, or remove files with **"Remove" / "Clear"**.
+3.  Optionally change the output file with **"Browse..." (参照...)** (defaults to `output.pdf` in **Downloads**).
+4.  Click **"Run" (実行)**.
+5.  A prompt will appear asking if you want to open the output location.
 
 ## 👨‍💻 For Developers
 If you want to run from source or build the EXE yourself:
 
 ### Prerequisites
 ```bash
-pip install img2pdf
+pip install img2pdf tkinterdnd2
